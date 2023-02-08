@@ -42,6 +42,12 @@ body {
   float: right;
 }
 
+.responsive {
+  width: 100%;
+  max-width: 200px;
+  height: auto;
+}
+
 @media screen and (max-width: 500px) {
   .header a {
     float: none;

@@ -15,19 +15,9 @@ body {
 }
 
 .responsive {
-  width: 100%;
-  max-width: 200px;
-  height: auto;
-}
-
-@media screen and (max-width: 500px) {
-  .header a {
-    float: none;
+    width: 100%;
+    max-width: 200px;
     display: block;
-    text-align: left;
-  }
-  
-  .header-right {
-    float: none;
-  }
+    margin: 30px auto 30px auto;
+    height: auto;
 }

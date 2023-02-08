@@ -8,11 +8,11 @@ body {
 
 .header {
   overflow: hidden;
-  padding: 20px 10px;
+  padding: 20px 20px 0 20px;
 }
 
 .main {
-  padding: 20px 10px;
+  padding: 0 20px 20px 20px;
 }
 
 .header a {
@@ -45,9 +45,9 @@ body {
   float: right;
 }
 
-.responsive {
+.max200 {
   width: 100%;
-  max-width: 100px;
+  max-width: 200px;
   height: auto;
 }
 

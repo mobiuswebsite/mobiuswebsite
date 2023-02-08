@@ -45,7 +45,7 @@ body {
   float: right;
 }
 
-.max200 {
+.responsive {
   width: 100%;
   max-width: 200px;
   height: auto;

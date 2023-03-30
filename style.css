@@ -4,7 +4,7 @@ body {
   margin: auto;
   max-width: 700px;
   font-family: sans-serif, Arial, Helvetica;
-  background-color: rgb(239, 239, 239);
+  /* background-color: rgb(239, 239, 239); */
   padding: 0 20px 0 20px;
 }
 

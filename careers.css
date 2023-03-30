@@ -34,7 +34,9 @@
   }
   
   /* A container for the application form. */
-  .ashby-application-form-container {}
+  .ashby-application-form-container {
+    background-color: rgb(239, 239, 239);  
+  }
   
   /* A container for the failure message */
   .ashby-application-form-failure-container {}
